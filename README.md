@@ -1,2 +1,3 @@
 # Toy-Project-JAVA-
-Toy Project(java)
+JDK 1.8
+IDE : Photon Release (4.8.0)
